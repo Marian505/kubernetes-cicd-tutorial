@@ -68,3 +68,6 @@ kubectl create secret docker-registry ghcr-secret \\
 ### Become a Cloud and DevOps Engineer
 
 Visit[https://marian505.github.io/rayanslim](https://marian505.github.io/marian505)
+
+
+hi
